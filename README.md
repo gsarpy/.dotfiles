@@ -9,6 +9,7 @@ Say you have a config folder in your home directory like `~/.config` and you hav
 ### For example:
 
 `mkdir -p ~/.dotfiles/nvim/.config/nvim`
+
 `mv ~/.config/nvim/init.vim ~/.dotfiles/nvim/.config/nvim/`
 
 Now from within `~/.dotfiles` run:
